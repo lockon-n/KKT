@@ -1,6 +1,6 @@
 # Multi-turn Dialogue Reading Comprehension with Pivot Turns and Knowledge
 
-Part of codes and data for the paper **Multi-turn Dialogue Reading Comprehension with Pivot Turns and Knowledge**
+Part of codes and data for the paper **[Multi-turn Dialogue Reading Comprehension with Pivot Turns and Knowledge](https://arxiv.org/abs/2102.05474)**
 
 **KKT PART**
 
@@ -85,3 +85,23 @@ python run_multiple_choice.py
 ```
 
 The results will be saved in ./results/albert_xxlarge_dream/my_eval_results.txt
+
+Please kindly cite this paper if you use this repo.
+
+```bash
+@article{DBLP:journals/corr/abs-2102-05474,
+  author    = {Zhuosheng Zhang and
+               Junlong Li and
+               Hai Zhao},
+  title     = {Multi-turn Dialogue Reading Comprehension with Pivot Turns and Knowledge},
+  journal   = {CoRR},
+  volume    = {abs/2102.05474},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2102.05474},
+  archivePrefix = {arXiv},
+  eprint    = {2102.05474},
+  timestamp = {Thu, 18 Feb 2021 15:26:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2102-05474.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```bash
