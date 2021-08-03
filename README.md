@@ -89,19 +89,5 @@ The results will be saved in ./results/albert_xxlarge_dream/my_eval_results.txt
 Please kindly cite this paper if you use this repo.
 
 ```bash
-@article{DBLP:journals/corr/abs-2102-05474,
-  author    = {Zhuosheng Zhang and
-               Junlong Li and
-               Hai Zhao},
-  title     = {Multi-turn Dialogue Reading Comprehension with Pivot Turns and Knowledge},
-  journal   = {CoRR},
-  volume    = {abs/2102.05474},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2102.05474},
-  archivePrefix = {arXiv},
-  eprint    = {2102.05474},
-  timestamp = {Thu, 18 Feb 2021 15:26:00 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2102-05474.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+@ARTICLE{9352490,  author={Zhang, Zhuosheng and Li, Junlong and Zhao, Hai},  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},   title={Multi-Turn Dialogue Reading Comprehension With Pivot Turns and Knowledge},   year={2021},  volume={29},  number={},  pages={1161-1173},  doi={10.1109/TASLP.2021.3058616}}
 ```
