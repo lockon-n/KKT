@@ -1,8 +1,8 @@
-# Dialogue Reading Comprehension from Multi-choice with Knowledge and Key Turns
+# Multi-turn Dialogue Reading Comprehension with Pivot Turns and Knowledge
 
-Codes and data for the paper **Dialogue Reading Comprehension from Multi-choice with Knowledge and Key Turns**
+Part of codes and data for the paper **Multi-turn Dialogue Reading Comprehension with Pivot Turns and Knowledge**
 
-
+**KKT PART**
 
 ### **Overview**
 
